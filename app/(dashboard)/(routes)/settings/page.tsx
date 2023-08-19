@@ -2,7 +2,8 @@ import { Settings } from "lucide-react";
 
 import Heading  from "@/components/Heading";
 import { checkSubscription } from "@/lib/subscription";
-import SubscriptionButton from "@/components/SubsCriptionButton";
+import SubscriptionButton from "@/components/SubscriptionButton";
+
 
 
 const SettingsPage = async () => {
